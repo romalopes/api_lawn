@@ -1,4 +1,4 @@
-require './app'
+require './api_lawn.rb'
 require 'sinatra/activerecord/rake'
 
 
