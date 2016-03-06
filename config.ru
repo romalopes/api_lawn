@@ -1,2 +1,2 @@
-require './api_lawn.rb'
+require './api_lawn'
 run Sinatra::Application
