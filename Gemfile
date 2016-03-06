@@ -14,8 +14,7 @@ end
 # Use sqlite3 as the database for Active Record
 #gem 'sqlite3'
 group :development, :test do
-	gem 'mysql2', '>= 0.3.13', '< 0.5'
+	# gem 'mysql2', '>= 0.3.13', '< 0.5'
 end
-
 
 gem 'law_mowing', '0.1.0',  :path=>'lawn_mowing'
